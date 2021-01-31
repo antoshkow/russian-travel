@@ -1,0 +1,12 @@
+.place__main-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+@media screen and (max-width: 1024px) {
+  .place__main-text {
+    max-width: 352px;
+  }
+}

@@ -1,0 +1,13 @@
+.cover__overlay {
+  background: rgba(42, 44, 47, 0.3);
+  text-decoration: none;
+  max-width: 1184px;
+  min-height: 740px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cover__overlay:hover {
+  background: rgba(42, 44, 47, 0.8);
+}
