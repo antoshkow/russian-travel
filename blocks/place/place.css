@@ -18,6 +18,7 @@
     padding-right: 48px;
     max-width: 928px;
   }
+}
 
 @media screen and (max-width: 768px) {
   .place {
