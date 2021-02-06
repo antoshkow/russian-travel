@@ -11,3 +11,22 @@
 .cover__overlay:hover {
   background: rgba(42, 44, 47, 0.8);
 }
+
+@media screen and (max-width: 1024px) {
+  .cover__overlay {
+    width: 100%;
+    min-height: 640px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__overlay {
+    min-height: 480px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cover__overlay {
+    min-height: 200px;
+  }
+}

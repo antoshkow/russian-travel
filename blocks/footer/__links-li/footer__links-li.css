@@ -1,0 +1,9 @@
+.footer__links-li {
+  margin-right: 18px;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__links-li {
+    margin-bottom: 32px;
+  }
+}
