@@ -1,11 +1,14 @@
 .header__links {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   margin: 0;
   min-width: 80px;
-  align-items: flex-end;
+  justify-content: center;
+  column-gap: 18px;
   text-decoration: none;
   list-style: none;
   padding-left: 0;
+  align-items: end;
 }
 
 @media screen and (max-width: 420px) and (min-width: 320px) {

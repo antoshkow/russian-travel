@@ -5,3 +5,9 @@
   box-sizing: border-box;
   grid-area: image;
 }
+
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+  .place__image {
+    max-width: 340px;
+  }
+}
