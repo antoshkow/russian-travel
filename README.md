@@ -1,11 +1,11 @@
-# Путешествия по России
+# Russian travel.
 
-## Проектная работа 2
+## Project work 2.
 
-1. Проектная работа "Путешествия по России" (спринт 3).
+1. Project work "Russian travel" (sprint 3).
 
-2. Одностраничный сайт: в отличие от первой курсовой работы сайт адаптивен, используются технологии grid-layout.
+2. One-page site: unlike the first project work, the site is adaptive, grid-layout technologies are used.
 
-3. Системные требования: язык HTML5/CSS3; web-браузер (браузер автора - Opera).
+3. System preferences: HTML5/CSS3; web-browser (dev browser – Opera).
 
-4. [Ссылка на gh-pages.](https://antoshkow.github.io/russian-travel/ "Ссылка на gh-pages.")
+4. [gh-pages link.](https://antoshkow.github.io/russian-travel/ "gh-pages link.")
